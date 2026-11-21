@@ -1,4 +1,4 @@
-![tests dynamic badge](https://github.com/WinotoHasyim/learn-cicd-starter/actions/workflows/ci/badge.svg)
+![tests dynamic badge](https://github.com/WinotoHasyim/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
